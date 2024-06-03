@@ -25,7 +25,7 @@ jobs:
 
     - name: Collect proxies
       run: |
-        python -u subscribe/collect.py -b -d 500 -o
+        python -u subscribe/collect.py -b -d 500 -o -s
 
     - name: Configure Git
       run: |
