@@ -344,3 +344,5 @@ https://app.cloudlion.me	@#@#	@jiso_chat
 https://jntm.org	@#@#	JNTM
 http://msvpn.gougouvpn.xyz:88
 https://www.qingfengyun.xyz/
+https://dash.sslemon.com/
+https://dash.sslemon.com	@#@#	sx84z062
