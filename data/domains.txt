@@ -346,3 +346,5 @@ http://msvpn.gougouvpn.xyz:88
 https://www.qingfengyun.xyz/
 https://dash.sslemon.com/
 https://dash.sslemon.com	@#@#	sx84z062
+https://sqfly.com/
+https://go.labx.me/
